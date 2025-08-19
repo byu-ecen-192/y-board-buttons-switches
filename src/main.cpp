@@ -22,10 +22,12 @@ int main() {
 
 void led_exploration() {
   // Add your code here for Part 1
+  
 }
 
 void button_exploration() {
   // Add your code here for Part 2
+
 }
 
 void potentiometer_exploration(){
